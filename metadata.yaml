@@ -1,0 +1,35 @@
+_repo: A-Flock-of-Girls-and-Boys_10433
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Parker, Charlotte Tiffany
+    gutenberg_agent_id: '3559'
+    url: http://www.gutenberg.org/2009/agents/3559
+creator:
+  author:
+    agent_name: Perry, Nora
+    birthdate: 1831
+    deathdate: 1896
+    gutenberg_agent_id: '3534'
+    url: http://www.gutenberg.org/2009/agents/3534
+    wikipedia: http://en.wikipedia.org/wiki/Nora_Perry_%28writer%29
+description: Cover -- Contents.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- GITenberg
+tableOfContents: That little Smith girl -- The egg boy -- Major Molly's Christmas
+  promise -- Polly's valentine -- Sibyl's slipper -- A little boarding-school Samaritan
+  -- Esther Bodn -- Becky -- Ally -- An April fool -- The Thanksgiving guest.
+title: A Flock of Girls and Boys
+url: http://www.gutenberg.org/ebooks/10433
